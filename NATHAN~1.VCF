@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ham;Nathan;;;CFP
+FN:Nathan Ham CFP
+ORG:Morgans Financial Limited
+TITLE:Private Client Adviser
+TEL;TYPE=WORK,VOICE:+61 7 3114 8622
+TEL;TYPE=CELL,VOICE:+61 480 651 412
+EMAIL;TYPE=WORK:Nathan.Ham@morgans.com.au
+ADR;TYPE=WORK:;;Level 1, 6 Yoga Way;Springfield Central;QLD;4300;Australia
+URL:https://morgans.com.au/contact/Nathan-Ham
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/nathanham/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/nathanham/
+NOTE:Authorised Representative 001257217. Morgans Financial Limited ABN 49 010 669 726.
+END:VCARD
